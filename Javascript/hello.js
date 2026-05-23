@@ -1,1 +1,21 @@
 console.log("Hello world")
+var deci = 5.6 ;
+var remainder ;
+remainder = 12 % 3 ;
+var quotient = 4.4 / 2.0 ;
+var product = 3.4 * 7.8 ;
+var a = 5 ;
+var b = 7 ;
+var c = 8 ;
+a=a+12 ;
+b=9+b ;
+c=c+7 ;
+a-=10 ;
+b-=4 ;
+c-= 6 ; 
+a*=6 ;
+b*=9 ;
+c*=2 ;
+a = a/12 ;
+b = b/4;
+c=c/11 ;
