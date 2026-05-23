@@ -1,4 +1,4 @@
-console.log("Hello world")
+console.log("operations")
 var sum = 10 + 20 ;
 var dif = 34 - 10 ;
 var mul = 18 * 20 ;
