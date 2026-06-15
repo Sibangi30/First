@@ -19,6 +19,6 @@ function myFunction() {
   }
 }
 
-// Call the function
+
 myFunction();
 
