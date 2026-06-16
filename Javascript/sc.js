@@ -5,7 +5,7 @@ try {
   console.log("Result is:", result);
 
   
-  throw new Error("Something went wrong!");
+  throw new Error("error ");
 } 
 catch (error) {
   
@@ -13,5 +13,5 @@ catch (error) {
 } 
 finally {
   
-  console.log("This block always executes.");
+  console.log("execution is complete.");
 }
